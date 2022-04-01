@@ -1,0 +1,29 @@
+body {
+    padding-top: 56px;
+    background: url("gold\'s-gym.jpg") repeat;
+}
+
+.jumbotron {
+    background 
+}
+
+.btn-primary {
+    background-color: rgb(255, 255, 0); 
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0); 
+}
+
+.btn-secondary {
+    background-color: transparent;
+    border-color: rgb(0, 0, 0);
+    color: rgb(198, 0, 99);
+}
+
+#contact {
+    background: url("contact.jpg") no-repeat center;
+}
+
+.container-fluid {
+    color: rgb(255, 255, 0);    
+}
+

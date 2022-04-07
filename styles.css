@@ -1,6 +1,7 @@
 body {
     padding-top: 56px;
     background-color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .btn-primary {
@@ -22,3 +23,14 @@ body {
 .container-fluid {
     color: rgb(255, 255, 0);
 } 
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.nav-item {
+    font-weight: bold;
+    font-size: 20px;
+}
+
